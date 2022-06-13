@@ -1,0 +1,11 @@
+.btn-back {
+    margin-top: 3rem;
+    padding: 0.3rem;
+    font-size: 40px;
+    border: none;
+    background: none;
+}
+
+.btn-back:hover {
+    color: blueviolet;
+}

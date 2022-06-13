@@ -1,0 +1,31 @@
+.story-container{
+    display:grid;
+    grid-template-columns: auto 200px;
+    grid-row: auto auto;
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+    
+    width: 900px;
+    height: auto;
+   
+
+}
+
+.menu-box {
+    margin-top: 40px;
+   
+}
+
+@media only screen and (max-width: 800px) {
+    .story-container{
+      grid-template-columns: 400px ;
+      justify-content: center;
+      width: auto;
+    }
+  }
+
+
+
+
+
+

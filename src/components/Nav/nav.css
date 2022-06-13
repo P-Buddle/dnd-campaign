@@ -1,0 +1,14 @@
+nav {
+  text-align: left;
+  padding-left: 2rem;
+}
+
+.navBarLink {
+    margin-right: 90px;
+  }
+
+  @media only screen and (max-width: 800px) {
+    .navBarLink {
+      margin-right: 20px;
+    }
+  }

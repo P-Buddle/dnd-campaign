@@ -1,13 +1,104 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Joan&display=swap');
+
+:root {
+    --bg-color: rgb(37, 9, 22);
+    --text-bg: #77b0d5;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body {
+    
+    margin: 0;
+    padding: 0;
+    color: whitesmoke;
+    font-family: 'Cinzel', serif;
+    background-color: var(--bg-color);
+    background: linear-gradient(90deg, var(--bg-color), black, var(--bg-color));
 }
+
+h4 {
+    margin-bottom: 2rem;
+    font-weight: 300;
+}
+
+a {
+    color: whitesmoke;
+    text-decoration: none;
+    
+}
+
+a:hover {
+    
+    cursor: pointer;
+}
+
+.expandable:hover {
+    color: blueviolet;
+    cursor: pointer;
+}
+
+.container {
+
+    margin: 30px;
+    text-align: center;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 400px auto;
+    grid-row: auto auto;
+    grid-column-gap: 50px;
+    grid-row-gap: 20px;
+}
+
+.container-list {
+    text-align: left;
+    margin-left: 50px;
+    margin-top: 3rem;
+}
+
+li {
+    margin-bottom: 0.9rem;
+    padding-left: 2rem;
+}
+
+.title-container {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.text-box {
+    font-family: 'Joan', serif;
+    font-size: larger;
+
+    width: auto;
+    margin: 5px;
+    padding: 1rem;
+    margin-right: 30px;
+
+    border-style: solid;
+    
+    
+    border-color: whitesmoke;
+    border-width: 0.1px;
+    
+    opacity: 0.8;
+    
+    
+}
+
+.btn {
+    background-color: rgb(79, 12, 43);
+    color: whitesmoke;
+
+}
+
+
+@media only screen and (max-width: 1000px) {
+    .grid-container{
+        grid-template-columns: auto;
+        grid-row: auto;
+
+    }
+  }
