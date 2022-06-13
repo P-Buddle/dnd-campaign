@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/dnd-campaign/static/css/main.f0351dd3.css",
-    "main.js": "/dnd-campaign/static/js/main.a8574b72.js",
+    "main.js": "/dnd-campaign/static/js/main.88b51f7f.js",
     "static/js/787.e5c79c8a.chunk.js": "/dnd-campaign/static/js/787.e5c79c8a.chunk.js",
     "static/media/minis.jpg": "/dnd-campaign/static/media/minis.6f37b70c619e2a18a875.jpg",
     "index.html": "/dnd-campaign/index.html",
     "main.f0351dd3.css.map": "/dnd-campaign/static/css/main.f0351dd3.css.map",
-    "main.a8574b72.js.map": "/dnd-campaign/static/js/main.a8574b72.js.map",
+    "main.88b51f7f.js.map": "/dnd-campaign/static/js/main.88b51f7f.js.map",
     "787.e5c79c8a.chunk.js.map": "/dnd-campaign/static/js/787.e5c79c8a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f0351dd3.css",
-    "static/js/main.a8574b72.js"
+    "static/js/main.88b51f7f.js"
   ]
 }
