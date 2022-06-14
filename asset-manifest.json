@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/dnd-campaign/static/css/main.f0351dd3.css",
-    "main.js": "/dnd-campaign/static/js/main.88b51f7f.js",
+    "main.css": "/dnd-campaign/static/css/main.069fdbd8.css",
+    "main.js": "/dnd-campaign/static/js/main.43e32d1a.js",
     "static/js/787.e5c79c8a.chunk.js": "/dnd-campaign/static/js/787.e5c79c8a.chunk.js",
+    "static/media/cubes.jpg": "/dnd-campaign/static/media/cubes.39c926961e21abd4abf5.jpg",
     "static/media/minis.jpg": "/dnd-campaign/static/media/minis.6f37b70c619e2a18a875.jpg",
     "index.html": "/dnd-campaign/index.html",
-    "main.f0351dd3.css.map": "/dnd-campaign/static/css/main.f0351dd3.css.map",
-    "main.88b51f7f.js.map": "/dnd-campaign/static/js/main.88b51f7f.js.map",
+    "main.069fdbd8.css.map": "/dnd-campaign/static/css/main.069fdbd8.css.map",
+    "main.43e32d1a.js.map": "/dnd-campaign/static/js/main.43e32d1a.js.map",
     "787.e5c79c8a.chunk.js.map": "/dnd-campaign/static/js/787.e5c79c8a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0351dd3.css",
-    "static/js/main.88b51f7f.js"
+    "static/css/main.069fdbd8.css",
+    "static/js/main.43e32d1a.js"
   ]
 }
